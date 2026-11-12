@@ -1,0 +1,31 @@
+id,name,category,brand,price,rating,stock,description,tags
+P001,Auralis Wireless Over-Ear Headphones,headphones,Auralis,2799,4.3,25,Bluetooth over-ear headphones with 30-hour battery and soft cushions.,headphone headphones wireless bluetooth over-ear
+P002,Auralis Bass Pro Wireless Earbuds,headphones,Auralis,1999,4.1,40,True wireless earbuds with deep bass and a pocket charging case.,earbud earbuds headphone headphones wireless bluetooth in-ear tws
+P003,Nimbus ANC Wireless Headphones,headphones,Nimbus,5499,4.5,12,Active noise-cancelling wireless headphones for travel and work.,headphone headphones wireless bluetooth noise-cancelling anc over-ear
+P004,Nimbus Wired Studio Headphones,headphones,Nimbus,1499,4.0,30,Wired headphones with a 3.5mm cable and flat studio sound.,headphone headphones wired studio over-ear
+P005,Vyom Sport Wireless Neckband,headphones,Vyom,1299,3.9,0,Sweat-resistant wireless neckband earphones for workouts.,neckband earphone earphones headphone headphones wireless bluetooth sport gym
+P006,Zentro Noise-Cancelling Wireless Headphones,headphones,Zentro,8999,4.7,8,Premium wireless headphones with adaptive noise cancelling.,headphone headphones wireless bluetooth noise-cancelling anc premium over-ear
+P007,Kito Student Laptop 14,laptops,Kito,29990,4.0,15,14-inch laptop with 8GB RAM and 256GB SSD for study and browsing.,laptop laptops notebook student 14-inch
+P008,Vyom Book 14 Laptop,laptops,Vyom,38990,4.2,10,Thin 14-inch laptop with 16GB RAM and 512GB SSD.,laptop laptops notebook thin light 14-inch
+P009,Zentro Slim 15 Laptop,laptops,Zentro,46499,4.4,6,15.6-inch laptop with 16GB RAM and a full-HD display.,laptop laptops notebook office 15-inch
+P010,Nimbus Creator 16 Laptop,laptops,Nimbus,72999,4.6,4,16-inch creator laptop with a dedicated graphics card.,laptop laptops notebook creator design video 16-inch
+P011,Auralis Gaming Laptop G15,laptops,Auralis,84990,4.5,3,15.6-inch gaming laptop with a 144Hz display and RGB keyboard.,laptop laptops notebook gaming gamer 15-inch
+P012,Vyom Lite 5G Smartphone,smartphones,Vyom,9499,3.9,50,Budget 5G phone with a 5000mAh battery.,phone phones smartphone smartphones mobile 5g budget
+P013,Kito Note 12 Smartphone,smartphones,Kito,12999,4.1,35,6.6-inch phone with a 50MP camera and fast charging.,phone phones smartphone smartphones mobile camera
+P014,Zentro Z5 Smartphone,smartphones,Zentro,18499,4.3,20,AMOLED display phone with 8GB RAM and 128GB storage.,phone phones smartphone smartphones mobile amoled
+P015,Nimbus Pixelite Smartphone,smartphones,Nimbus,24999,4.4,0,Camera-focused phone with excellent low-light photos.,phone phones smartphone smartphones mobile camera photography
+P016,Auralis Ultra Smartphone,smartphones,Auralis,54999,4.7,5,Flagship phone with a 200MP camera and 512GB storage.,phone phones smartphone smartphones mobile flagship premium camera
+P017,Vyom Fit Smartwatch,smartwatches,Vyom,2499,3.8,45,Fitness smartwatch with heart-rate and step tracking.,watch watches smartwatch smartwatches fitness band tracker
+P018,Kito Active Smartwatch,smartwatches,Kito,3999,4.1,25,Smartwatch with built-in GPS and SpO2 sensor.,watch watches smartwatch smartwatches fitness gps
+P019,Zentro Round AMOLED Smartwatch,smartwatches,Zentro,7999,4.4,14,Round AMOLED smartwatch with Bluetooth calling.,watch watches smartwatch smartwatches amoled calling
+P020,Nimbus Pro Smartwatch,smartwatches,Nimbus,14999,4.6,7,Premium smartwatch with ECG and a titanium case.,watch watches smartwatch smartwatches premium ecg titanium
+P021,Vyom Mini Bluetooth Speaker,speakers,Vyom,899,3.9,60,Pocket-sized Bluetooth speaker with 8-hour battery.,speaker speakers bluetooth wireless portable mini
+P022,Auralis Boom Portable Speaker,speakers,Auralis,1799,4.2,33,Waterproof portable Bluetooth speaker for outdoors.,speaker speakers bluetooth wireless portable waterproof outdoor
+P023,Kito Party Speaker 40W,speakers,Kito,3499,4.0,18,40W party speaker with RGB lights and karaoke mic input.,speaker speakers bluetooth wireless party loud karaoke
+P024,Zentro Home Soundbar,speakers,Zentro,6999,4.5,9,2.1 channel soundbar with a wireless subwoofer for TVs.,soundbar speaker speakers tv home theatre wireless subwoofer
+P025,Kito Wireless Mouse,accessories,Kito,699,4.1,80,Silent-click wireless mouse with a USB receiver.,mouse mice wireless computer accessory
+P026,Zentro Mechanical Keyboard,accessories,Zentro,3299,4.4,22,Mechanical keyboard with blue switches and backlight.,keyboard keyboards mechanical gaming computer accessory
+P027,Nimbus 65W USB-C Charger,accessories,Nimbus,1899,4.3,40,Fast 65W USB-C charger for phones and laptops.,charger chargers usb-c adapter fast-charging accessory
+P028,Vyom 20000mAh Power Bank,accessories,Vyom,1499,4.2,55,20000mAh power bank with two USB ports.,powerbank power-bank battery charger portable accessory
+P029,Auralis Laptop Backpack,accessories,Auralis,1999,4.0,30,Water-resistant backpack that fits laptops up to 15.6 inches.,backpack bag laptop-bag travel accessory
+P030,Kito HD Webcam,accessories,Kito,2299,3.9,0,1080p webcam with a built-in microphone for video calls.,webcam camera video-call usb accessory

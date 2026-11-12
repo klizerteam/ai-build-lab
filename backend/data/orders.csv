@@ -1,0 +1,12 @@
+order_id,order_date,items,total,status,estimated_delivery
+ORD1021,2026-10-01,1 x Kito Wireless Mouse,699,Delivered,2026-10-05
+ORD1022,2026-10-12,1 x Zentro Slim 15 Laptop,46499,Processing,2026-10-20
+ORD1023,2026-10-03,1 x Vyom Fit Smartwatch,2499,Cancelled,
+ORD1024,2026-10-10,1 x Auralis Wireless Over-Ear Headphones; 1 x Nimbus 65W USB-C Charger,4698,Shipped,2026-10-16
+ORD1025,2026-10-09,1 x Kito Note 12 Smartphone,12999,Out for delivery,2026-10-14
+ORD1026,2026-10-07,2 x Vyom Mini Bluetooth Speaker,1798,Delivered,2026-10-11
+ORD1027,2026-10-13,1 x Nimbus ANC Wireless Headphones,5499,Processing,2026-10-19
+ORD1028,2026-10-11,1 x Zentro Mechanical Keyboard; 1 x Kito Wireless Mouse,3998,Shipped,2026-10-17
+ORD1029,2026-10-05,1 x Auralis Boom Portable Speaker,1799,Returned,
+ORD1030,2026-10-13,1 x Kito Student Laptop 14; 1 x Auralis Laptop Backpack,31989,Processing,2026-10-21
+ORD1031,2026-10-23,1 x Auralis Boom Portable Speaker,1799,Shipped,2026-10-25

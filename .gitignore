@@ -1,0 +1,23 @@
+# Secrets - never commit your API key
+.env
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Host-only files - kept on the facilitator's machine, not shared with participants
+FACILITATOR.md
+PRESENTATION_CONTENT.md
+*.docx
+backend/app/solution/
+
+# Generated database (rebuilt from the CSV files)
+backend/data/shop.db
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
