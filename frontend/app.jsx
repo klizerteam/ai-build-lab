@@ -379,16 +379,7 @@ function Welcome({ onPick }) {
         <p>Powered by the Python tools <em>you</em> build.</p>
       </div>
 
-      <div className="section-label">Browse a category</div>
-      <div className="categories">
-        {CATEGORIES.map((c) => (
-          <button key={c.id} className="category" onClick={() => onPick(`Show me ${c.id}`)}>
-            <span className={`category-art art-${c.id}`}>{c.emoji}</span>{c.label}
-          </button>
-        ))}
-      </div>
-
-      <div className="section-label">Or try a question</div>
+      <div className="section-label">Try a question</div>
       <div className="examples">
         {EXAMPLES.map((e) => (
           <button key={e.text} className="example" onClick={() => onPick(e.text)}>

@@ -315,26 +315,7 @@ code, pre { font-family: ui-monospace, "Cascadia Code", "JetBrains Mono", Consol
 
 .section-label { margin: 28px 0 12px; font-size: 12px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--faint); }
 
-.categories { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 10px; }
-.category {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 8px;
-  padding: 14px 6px 12px;
-  border: 1px solid var(--border);
-  border-radius: 16px;
-  background: var(--surface);
-  font-size: 13px;
-  font-weight: 600;
-  cursor: pointer;
-  transition: transform 0.2s, border-color 0.2s, box-shadow 0.2s;
-}
-.category-art { display: grid; place-items: center; width: 44px; height: 44px; border-radius: 14px; font-size: 22px; transition: transform 0.25s; }
-.category:hover { transform: translateY(-3px); border-color: rgba(111, 168, 255, 0.45); box-shadow: var(--glow); }
-.category:hover .category-art { transform: scale(1.1) rotate(-4deg); }
-
-/* Category colour tiles (used by category buttons and product cards) */
+/* Category colour tiles (used by product cards) */
 .art-headphones { background: linear-gradient(140deg, #3b2fd9, #1c1660); }
 .art-laptops { background: linear-gradient(140deg, #2a6bff, #0d2a73); }
 .art-smartphones { background: linear-gradient(140deg, #b03aa8, #3a1356); }
@@ -675,7 +656,6 @@ code, pre { font-family: ui-monospace, "Cascadia Code", "JetBrains Mono", Consol
   .strip-tools { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin-top: 6px; font-size: 12.5px; color: var(--muted); }
   .pill { padding: 1px 9px; border: 1px dashed var(--border-strong); border-radius: 999px; font-family: ui-monospace, "Cascadia Code", Consolas, monospace; font-size: 11.5px; }
   .pill.on { border: 1px solid rgba(74, 222, 128, 0.35); background: var(--green-soft); color: var(--green); }
-  .categories { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 }
 
 @media (max-width: 640px) {
